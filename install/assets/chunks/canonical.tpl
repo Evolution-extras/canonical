@@ -1,7 +1,7 @@
 /**
 * canonical
 *
-* Ссылка canonical для использования в <head />
+* РЎСЃС‹Р»РєР° canonical РґР»СЏ РёСЃРїРѕР»СЊР·РѕРІР°РЅРёСЏ РІ <head />
 *
 * @category    chunk
 * @version     1.0
