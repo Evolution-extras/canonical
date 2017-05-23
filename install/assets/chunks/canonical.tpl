@@ -1,5 +1,5 @@
 /**
-* Canonical
+* canonical
 *
 * —сылка canonical дл€ использовани€ в <head />
 *
