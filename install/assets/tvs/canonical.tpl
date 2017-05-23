@@ -15,4 +15,5 @@
  * @internal        @template_assignments Основной
  * @internal        @modx_category SEO
  * @internal        @installset sample
+ * @internal        @author MrSwed https://github.com/Evolution-extras/canonical/
  */
